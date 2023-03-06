@@ -15,6 +15,8 @@
 A Junior Data Engineer studying at @northcoders Data Engineering Bootcamp (11/22 - 03/23)
 and ready to dive into software development professionally when I graduate in March.
 
+Final Project: https://github.com/moejolloy/de-terrific-totes-project
+
 ## Languages:
 
 ![SQL](https://img.shields.io/badge/SQL-3776AB.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -24,7 +26,7 @@ and ready to dive into software development professionally when I graduate in Ma
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## Tools:
+## Tools, Libraries and Frameworks:
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
