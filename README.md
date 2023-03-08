@@ -13,7 +13,7 @@
 # Hi, I'm Alexander 👋
 
 A Junior Data Engineer studying at @northcoders Data Engineering Bootcamp (11/22 - 03/23)
-and ready to dive into software development professionally when I graduate in March.
+and ready to dive into software development / engineering professionally when I graduate in March.
 
 Final Project: https://github.com/moejolloy/de-terrific-totes-project
 
