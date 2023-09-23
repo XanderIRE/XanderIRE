@@ -12,10 +12,8 @@
 
 # Hi, I'm Alexander 👋
 
-A Student Data Engineer studying at @northcoders Data Engineering Bootcamp (11/22 - 03/23)
-and ready to dive into software development / engineering professionally when I graduate in March.
-
-Final Project: https://github.com/moejolloy/de-terrific-totes-project
+Software Engineer.
+Messing about with keyboards.
 
 ## Languages:
 
@@ -35,31 +33,3 @@ Final Project: https://github.com/moejolloy/de-terrific-totes-project
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-## Extras
-
-I'm currently learning `Java` and `React` for fun.
-
-<!--
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
--->
-
-I'm also prototyping, designing, and building custom PCBs for ergonomic keyboards.
-
-
-
-<!--
-**XanderIRE/XanderIRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
