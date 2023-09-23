@@ -1,8 +1,9 @@
+  <!--
 <p align="right">
   <a 
     href="" target="[_blank](https://www.linkedin.com/in/alexander-ireland-522093269/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
-  <!--
+
   <a 
     href="" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
