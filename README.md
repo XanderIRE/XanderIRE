@@ -14,6 +14,7 @@
 # Hi, I'm Alexander 👋
 
 Software Engineer.
+Northcoders graduate.
 Messing about with keyboards.
 
 ## Languages:
