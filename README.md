@@ -13,8 +13,10 @@
 
 # Hi, I'm Alexander 👋
 
-Software Engineer.
-Northcoders graduate.
+Software Engineer / Devops.
+
+Northcoders graduate 2023.
+
 Messing about with keyboards.
 
 ## Languages:
