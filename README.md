@@ -15,7 +15,7 @@
 
 Software Engineer / Devops.
 
-Northcoders graduate 2023.
+Northcoders Data Engineering graduate 2023.
 
 Messing about with keyboards.
 
